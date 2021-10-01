@@ -1,0 +1,19 @@
+.notificationBackground {
+    background-color: #e9eaed;
+    padding-top: 3px;
+}
+
+.header {
+    
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.container {
+    background-color: rgb(65, 150, 164);
+    color: white;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 939px;
+}

@@ -1,0 +1,25 @@
+.background{
+    background-color: #e9eaed;
+}
+
+.sideBySide{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.mainContainer{
+    margin-right: 15px;
+}
+
+.sideContainer{
+    background-color: white;
+    margin-top: 15px;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 15px;
+}

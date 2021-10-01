@@ -1,0 +1,28 @@
+.sideBackground{
+    background-color: #e9eaed;
+}
+
+.sideContainer{
+    background-color: white;
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 270px;
+    display: flex;
+}
+
+.line{
+    opacity: 20%;
+    margin-left: 15px;
+}
+
+.topic{
+    font-weight: 700;
+}
+
+.number{
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(65, 150, 164);
+    margin-right: 15px;
+}

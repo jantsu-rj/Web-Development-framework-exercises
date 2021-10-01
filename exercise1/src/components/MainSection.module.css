@@ -1,0 +1,27 @@
+.mainBackground{
+    margin-top: 15px;
+}
+
+.mainContainer{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    width: 640px;
+}
+
+.topic{
+    color: #00518d;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.title{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.26;
+}
+
+.info{
+    font-size: 15px;
+}
